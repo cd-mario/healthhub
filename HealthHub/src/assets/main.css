@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Inter:wght@400;500;600&family=Lora:ital,wght@0,400..700;1,400..700&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playfair+Display&family=Rethink+Sans:wght@400;500;700&family=Roboto+Mono&family=Roboto+Slab:wght@100;500&family=Roboto:ital,wght@0,300;0,400;0,500;1,100&family=Skranji&display=swap');
+@import 'bootstrap';
+
+* {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  color: rgb(36, 35, 35);
+  background-color: #eee;
+}
